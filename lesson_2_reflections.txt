@@ -1,0 +1,12 @@
+Terugkijken
+Wat heb ik tot nu toe geleerd
+
+******************************
+Use Git and GitHub
+#	What happens when you initialize a repository? Why do you need to do it?
+	When one initializes a repository, a folder is created in which git stores metadata for version control
+	You need to do it with every new project, to allow version control to take place.
+
+#	How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is a place in which files can be stored before the actual commit
+	The value that it adds is a bit more control - making logical changes to the repository
