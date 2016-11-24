@@ -5,18 +5,15 @@ Wat heb ik tot nu toe geleerd
 Versie Control systems
 #	How could having easy access to the entire history of a file make you a more efficient programmer in 
 	the long term?
-
 	If you made a mistake, you can allways get back in time until you've reached the last working version again
 
 #	What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
 	vs having versions automatically saved, like Google Docs does?
-
 	Biggest con: you can forget to do so; Biggest pro: if done properly, the saving points are logic, in stead of 
 	something else
 
 #	Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, 
 	like Google Docs, treat each file separately?
-
 	Because changes between different files can interact with eachother. So if one file was changed, the other
 	one in the same version should be changed as well.
 
